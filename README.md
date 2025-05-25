@@ -1,11 +1,9 @@
-نام پروژه : تحلیل پروتکل‌های مسیریابی در انتقال محتوای چندرسانه‌ای با الگوریتم‌های یادگیری عمیق
-
-لینک مقاله ها:
+لینک 15 مقاله پیشنهادی
 https://drive.google.com/drive/folders/1-A0_aQ9I0GhYlZWVbqjS2PKd2lPb8Y8n?usp=sharing
-
-
-لینک مقاله و ترجمه آن:
+لینک مقاله انتخاب شده و ترجمه ی آن
 https://drive.google.com/drive/folders/1WZnDDwhUKdCtfExEjQv_03HlzbT05g0o?usp=sharing
-
-
+لینک پیاده سازی پروژه در پایتون به همراه دیتاست آزمایشی
+https://drive.google.com/drive/folders/10hWL74xVuDXvUlRRuaxzQLY5gRGmCFqq?usp=sharing
+Google Colab لینک پیاده سازی دیتاست آزمایشی و دیتاست مقاله در 
+https://colab.research.google.com/drive/1u7fjCFWHRJZHqO3_Yoi4zeTruvQrPO0m?usp=sharing
 
